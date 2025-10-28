@@ -55,7 +55,7 @@ This analysis is useful for stakeholders like real estate investors, property ma
 
 
 1️⃣ Sales Performance
-(https://1drv.ms/i/c/0a9c8372bc9e9c41/EVgFqKOd_CxEkCurFDw5i7MBb4iMfDyi3DE8mGc0AR_Scg?e=Pks8vP)
+[(https://1drv.ms/i/c/0a9c8372bc9e9c41/EVgFqKOd_CxEkCurFDw5i7MBb4iMfDyi3DE8mGc0AR_Scg?e=Pks8vP)]
 
 2️⃣ House Market Overview
 [![ House Market Overview](https://1drv.ms/i/c/0a9c8372bc9e9c41/EX6DV8eR_1BHiK2_ZDx_ZGMBAJvS8s_PGKUuB4sTDQAV1g?e=4RlIqg)

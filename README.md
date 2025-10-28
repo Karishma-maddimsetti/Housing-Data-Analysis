@@ -55,14 +55,14 @@ This analysis is useful for stakeholders like real estate investors, property ma
 
 
 1️⃣ Sales Performance
-[(https://1drv.ms/i/c/0a9c8372bc9e9c41/EVgFqKOd_CxEkCurFDw5i7MBb4iMfDyi3DE8mGc0AR_Scg?e=Pks8vP)]
+[![Sales Performance](https://1drv.ms/i/c/0a9c8372bc9e9c41/EVgFqKOd_CxEkCurFDw5i7MBb4iMfDyi3DE8mGc0AR_Scg?e=pU9chi)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EVgFqKOd_CxEkCurFDw5i7MBb4iMfDyi3DE8mGc0AR_Scg?e=pU9chi)
 
 2️⃣ House Market Overview
 [![House Market Overview](https://1drv.ms/i/c/0a9c8372bc9e9c41/EX6DV8eR_1BHiK2_ZDx_ZGMBAJvS8s_PGKUuB4sTDQAV1g?e=MkPwJn)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EX6DV8eR_1BHiK2_ZDx_ZGMBAJvS8s_PGKUuB4sTDQAV1g?e=MkPwJn)
 
-
 3️⃣ House Type Analysis
-[![ House Type Analysis ](https://1drv.ms/i/c/0a9c8372bc9e9c41/EZEWforbaOJIoRFp-uBA9mQBigcBuaSKL5uv9M-1o2XKPA?e=aoyIe1)
+[![House Type Analysis](https://1drv.ms/i/c/0a9c8372bc9e9c41/EZEWforbaOJIoRFp-uBA9mQBigcBuaSKL5uv9M-1o2XKPA?e=CMga7T)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EZEWforbaOJIoRFp-uBA9mQBigcBuaSKL5uv9M-1o2XKPA?e=CMga7T)
+
 
 👩‍💻 Developed By
 Karishma Bhavani Maddimsetti 🎓 Petroleum Engineer | Oil & Gas Data Analyst
